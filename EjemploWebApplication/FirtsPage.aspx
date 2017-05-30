@@ -11,7 +11,8 @@
     <div>
         <h1>  ¿Como Jugar Dota 3 ?</h1>
         <p> En esta parte invoco a mis amigos para jugar dota 3 para todos los niños ratas </p>
-        <p> en el peru existes muchos niños ratas un ejemplo mi amigo Elizeo con &quot;Z&quot;</p>
+        <p> en el peru existes muchos niños ratas un ejemplo mi amigo Elizeo con &quot;Z&quot; uno de ellos tamien s llama Rosdil</p>
+        <p> &nbsp;</p>
     
     </div>
     </form>
