@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="FirtsPage.aspx" />
+    <Content Include="SegundaPagina.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -110,6 +111,13 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SegundaPagina.aspx.designer.vb">
+      <DependentUpon>SegundaPagina.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SegundaPagina.aspx.vb">
+      <DependentUpon>SegundaPagina.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
